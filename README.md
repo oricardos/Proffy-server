@@ -1,3 +1,5 @@
+Run project `yarn start`
+
 # Functionalities
 
 ## Connections
